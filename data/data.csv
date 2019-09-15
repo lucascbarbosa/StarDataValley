@@ -1,0 +1,42 @@
+,Name,Buy,Sell Normal,Sell Silver,Sell Gold,Growth,Season,Harvest,Regrowth,Harvest Method,Extra Harvest,Harvest Mode
+299,Amaranth Seeds,,,,,7,fall,300,0,1,false,Scythe
+301,Grape Starter,,,,,10,fall,398,3,0,true 1 2 6 0,Normal
+302,Hops Starter,,,,,11,summer,304,1,0,true 1 2 6 0,Normal
+347,Rare Seed,,,,,24,fall,417,0,0,false,Normal
+425,Fairy Seeds,,,,,12,fall,595,0,0,false,Normal
+427,Tulip Bulb,,,,,6,spring,591,0,0,false,Normal
+429,Jazz Seeds,,,,,7,spring,597,0,0,false,Normal
+431,Sunflower Seeds,,,,,8,summer fall,421,0,0,false,Normal
+433,Coffee Bean,,,,,10,spring summer,433,2,0,true 4 6 10 .02,Normal
+453,Poppy Seeds,,,,,7,summer,376,0,0,false,Normal
+455,Spangle Seeds,,,,,8,summer,593,0,0,false,Normal
+472,Parsnip Seeds,,,,,4,spring,24,0,0,false,Normal
+473,Bean Starter,,,,,10,spring,188,3,0,true 1 2 6 0,Normal
+474,Cauliflower Seeds,,,,,12,spring,190,0,0,false,Normal
+475,Potato Seeds,,,,,6,spring,192,0,0,true 1 2 8 .2,Normal
+476,Garlic Seeds,,,,,4,spring,248,0,0,false,Normal
+477,Kale Seeds,,,,,6,spring,250,0,1,false,Scythe
+478,Rhubarb Seeds,,,,,13,spring,252,0,0,false,Normal
+479,Melon Seeds,,,,,12,summer,254,0,0,false,Normal
+480,Tomato Seeds,,,,,11,summer,256,4,0,true 1 1 6 .05,Normal
+481,Blueberry Seeds,,,,,13,summer,258,4,0,true 3 5 5 .02,Normal
+482,Pepper Seeds,,,,,5,summer,260,3,0,true 1 1 5 .03,Normal
+483,Wheat Seeds,,,,,4,summer fall,262,0,1,false,Scythe
+484,Radish Seeds,,,,,6,summer,264,0,0,false,Normal
+485,Red Cabbage Seeds,,,,,9,summer,266,0,0,false,Normal
+486,Starfruit Seeds,,,,,13,summer,268,0,0,false,Normal
+487,Corn Seeds,,,,,14,summer fall,270,4,0,true 1 2 5 0,Normal
+488,Eggplant Seeds,,,,,5,fall,272,5,0,true 1 2 10 .002,Normal
+489,Artichoke Seeds,,,,,8,fall,274,0,0,false,Normal
+490,Pumpkin Seeds,,,,,13,fall,276,0,0,false,Normal
+491,Bok Choy Seeds,,,,,4,fall,278,0,0,false,Normal
+492,Yam Seeds,,,,,10,fall,280,0,0,false,Normal
+493,Cranberry Seeds,,,,,7,fall,282,5,0,true 2 6 5 .1,Normal
+494,Beet Seeds,,,,,6,fall,284,0,0,false,Normal
+495,Spring Seeds,,,,,7,spring,16,0,0,false,Normal
+496,Summer Seeds,,,,,7,summer,396,0,0,false,Normal
+497,Fall Seeds,,,,,7,fall,404,0,0,false,Normal
+498,Winter Seeds,,,,,7,winter,412,0,0,false,Normal
+499,Ancient Seeds,,,,,28,spring summer fall,454,7,0,false,Normal
+745,Strawberry Seeds,,,,,8,spring,400,4,0,true 1 1 5 .02,Normal
+802,Cactus Seeds,,,,,12,spring summer fall winter,90,3,0,false,Normal
